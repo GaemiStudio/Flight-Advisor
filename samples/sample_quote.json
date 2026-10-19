@@ -1,0 +1,19 @@
+{
+  "trip": {
+    "origin": "SFO",
+    "destination": "LAX",
+    "depart": "2026-03-01",
+    "return": "2026-03-05",
+    "cabin": "economy",
+    "adults": 1,
+    "currency": "USD",
+    "notes": "sample fixture"
+  },
+  "as_of": "2026-02-20",
+  "current_price": 214.0,
+  "history": [["2026-02-18", 232.0], ["2026-02-20", 214.0]],
+  "typical_range": [180.0, 260.0],
+  "provider_level": "low",
+  "itinerary": "United, nonstop, 1.8h outbound",
+  "source": "sample fixture"
+}
